@@ -7,3 +7,17 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 ## Purpose
 The purpose of this project is to create a report that shows how cryptocurrencies can be grouped in order to create a classification system for different investment portfolios.
+
+#Results
+
+### Elbow Curve to find the best value for K
+![Elbow Curve](https://user-images.githubusercontent.com/89143725/147832968-1c30d449-2206-4d0a-b7e1-906664875da6.png)
+
+### 3D-Scatter with the PCA data and the clusters
+![3D Graph](https://user-images.githubusercontent.com/89143725/147832958-24861368-22c4-44a0-bf97-c91aaca8dcf9.png)
+
+### Tradable cryptocurrencies via HV Plot Table
+![HV Plot Table](https://user-images.githubusercontent.com/89143725/147832967-3dcc23db-cc9d-41fd-adc9-74a2ce5c3dd1.png)
+
+### "TotalCoinSupply" and "TotalCoinsMined" Scatterplot
+![HV Plot Scatterplot](https://user-images.githubusercontent.com/89143725/147832959-e0def258-9174-43b9-aa08-10c910702fb1.png)
