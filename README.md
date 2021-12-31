@@ -8,7 +8,7 @@ The data Martha will be working with is not ideal, so it will need to be process
 ## Purpose
 The purpose of this project is to create a report that shows how cryptocurrencies can be grouped in order to create a classification system for different investment portfolios.
 
-#Results
+## Results
 
 ### Elbow Curve to find the best value for K
 ![Elbow Curve](https://user-images.githubusercontent.com/89143725/147832968-1c30d449-2206-4d0a-b7e1-906664875da6.png)
